@@ -5,3 +5,6 @@
 
 ## Status Report - Módulo 2
 ![Image](https://github.com/user-attachments/assets/58da3de3-b061-41c6-bcf1-3654e12225b7)
+
+## Status Report - Módulo 3
+<img width="1802" height="539" alt="image" src="https://github.com/user-attachments/assets/c55cdb8f-ba77-44a6-8142-f9bb61cafb76" />
